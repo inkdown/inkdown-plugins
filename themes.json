@@ -1,0 +1,7 @@
+{
+  "name": "Gruvbox",
+  "author": "l-furquim",
+  "repo": "l-furquim/inkdown-gruvbox",
+  "screenshot": "dark.png",
+  "modes": ["dark", "light"]
+}
