@@ -8,5 +8,15 @@
       "dark",
       "light"
     ]
+  },
+  {
+    "name": "Solarized",
+    "author": "inkdown",
+    "repo": "inkdown/inkdown-solarized",
+    "screenshot": "dark.png",
+    "modes": [
+      "dark",
+      "light"
+    ]
   }
 ]
